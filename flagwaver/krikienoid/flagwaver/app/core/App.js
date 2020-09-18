@@ -1,4 +1,4 @@
-import THREE from 'three';
+import * as THREE from 'three';
 
 import { TIME_STEP } from '../../constants';
 import initStats from '../../utils/initStats';
