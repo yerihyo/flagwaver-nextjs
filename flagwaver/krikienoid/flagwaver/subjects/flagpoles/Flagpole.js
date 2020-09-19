@@ -1,4 +1,4 @@
-import THREE from 'three';
+import * as THREE from 'three';
 
 import { Side, FlagpoleType } from '../../constants';
 import { createPoleGeometryTypeI } from './utils/FlagpoleGeometryHelpers';

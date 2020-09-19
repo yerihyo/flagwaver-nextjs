@@ -1,4 +1,4 @@
-import THREE from 'three';
+import * as THREE from 'three';
 
 export function generateDataTexture(width, height, color) {
     const size = width * height;

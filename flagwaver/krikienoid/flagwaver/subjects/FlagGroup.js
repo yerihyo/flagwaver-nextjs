@@ -1,4 +1,4 @@
-import THREE from 'three';
+import * as THREE from 'three';
 
 import Flag from './Flag';
 import Flagpole from './flagpoles/Flagpole';

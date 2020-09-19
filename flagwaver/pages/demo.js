@@ -1,4 +1,4 @@
-import App from '../krikienoid/flagwaver/app/core/App'
+import App from '../krikienoid/app/components/App'
 
 export default function demo() {
   return (
