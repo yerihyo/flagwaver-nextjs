@@ -1,4 +1,4 @@
-import THREE from 'three';
+import * as THREE from 'three';
 
 function setLightShadow(light) {
     const d = 10;

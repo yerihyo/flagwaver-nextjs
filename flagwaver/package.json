@@ -8,10 +8,22 @@
     "start": "next start"
   },
   "dependencies": {
+    "focus-trap": "^6.0.1",
+    "glslify-loader": "^2.0.0",
     "next": "9.5.3",
+    "raw-loader": "^4.0.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-icons": "^3.11.0",
+    "react-redux": "^7.2.1",
+    "react-spring": "^8.0.27",
+    "redux": "^4.0.5",
     "stats.js": "^0.17.0",
     "three": "^0.120.1"
+  },
+  "devDependencies": {
+    "json-loader": "^0.5.7",
+    "modernizr": "^3.11.3",
+    "modernizr-loader": "^1.0.1"
   }
 }

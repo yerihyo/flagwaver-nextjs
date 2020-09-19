@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import PropTypes from 'prop-types';
-import THREE from 'three';
+import * as THREE from 'three';
 
 import {
     Wind as WindSubject,

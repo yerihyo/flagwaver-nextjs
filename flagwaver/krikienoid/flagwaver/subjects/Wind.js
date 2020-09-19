@@ -1,4 +1,4 @@
-import THREE from 'three';
+import * as THREE from 'three';
 
 import { AIR_DENSITY } from '../constants';
 import WindModifiers from './utils/WindModifiers';
